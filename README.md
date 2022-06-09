@@ -1,5 +1,7 @@
 # Project
 * İlk ödevim not ortalaması programı yaptım.
+* KDVTutarıHesaplayanProgram
+* DikÜçgendeHipotenüsBulanProgram
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
