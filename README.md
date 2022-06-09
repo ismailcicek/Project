@@ -2,6 +2,7 @@
 * İlk ödevim not ortalaması programı yaptım.
 * KDVTutarıHesaplayanProgram
 * DikÜçgendeHipotenüsBulanProgram
+* TaksimeetreHesaplayanProgram
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
