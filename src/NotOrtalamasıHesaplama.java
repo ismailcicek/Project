@@ -28,6 +28,7 @@ public class NotOrtalamasıHesaplama {
 
         int toplam = (mat+fizik+kimya+turkce+tarih+muzik);
         double sonuc = toplam / 6 ;
+
         System.out.println("Not Ortalamanız : " + sonuc);
         System.out.print(sonuc > 60 ? "Sınıfı Geçtiniz." : "Sınıfta Kaldınız.");
 
