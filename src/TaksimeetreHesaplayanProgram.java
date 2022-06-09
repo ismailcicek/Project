@@ -18,7 +18,7 @@ public class TaksimeetreHesaplayanProgram {
 
     total = (total < 20 ) ? 20 : total ;
 
-    System.out.print("Toplam tutar :" + total );
+    System.out.print("Toplam tutar :" + total);
 
 
 
