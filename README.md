@@ -4,6 +4,7 @@
 * DikÜçgendeHipotenüsBulanProgram
 * TaksimeetreHesaplayanProgram
 * VücutKitleIndeksiHesaplamaProgramı
+* ManavKasaProgrami
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
