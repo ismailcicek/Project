@@ -3,7 +3,7 @@
 * KDVTutarıHesaplayanProgram
 * DikÜçgendeHipotenüsBulanProgram
 * TaksimeetreHesaplayanProgram
-* VücutKitleİndeksiHesaplama
+* VücutKitleİndeksiHesaplamaProgramı
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
