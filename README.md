@@ -5,6 +5,7 @@
 * TaksimeetreHesaplayanProgram
 * VücutKitleIndeksiHesaplamaProgramı
 * ManavKasaProgrami
+* HesapMakinasiProgramiSwitch
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
