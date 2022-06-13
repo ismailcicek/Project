@@ -40,7 +40,6 @@ public class HesapMakinasiProgramiSwitch {
                 }
                 break;
             default:
-
                 System.out.println("Yanlış Bir Seçim Yaptınız.\nLütfen Tekrar Deneyiniz!");
 
 
