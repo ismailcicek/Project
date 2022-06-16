@@ -7,6 +7,7 @@
 * ManavKasaProgrami
 * HesapMakinasiProgramiSwitch
 * KullanıcıGirisProgramı
+* SınıfıGecmeDurumuProgramı
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
