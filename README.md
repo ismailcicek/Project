@@ -8,6 +8,7 @@
 * HesapMakinasiProgramiSwitch
 * KullanıcıGirisProgramı
 * SınıfıGecmeDurumuProgramı
+* HavaSıcaklıgınaGöreEtkinlikÖnermeProgramı
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
