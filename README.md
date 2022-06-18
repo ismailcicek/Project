@@ -9,6 +9,7 @@
 * KullanıcıGirisProgramı
 * SınıfıGecmeDurumuProgramı
 * HavaSıcaklıgınaGöreEtkinlikÖnermeProgramı
+* SayılarıBüyüktenKücügeSıralamaProgramı
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
