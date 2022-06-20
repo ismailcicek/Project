@@ -1,15 +1,19 @@
 # Project
+* [Patika Profil Adresim](https://app.patika.dev/shelker)
 * İlk ödevim not ortalaması programı yaptım.
 * KDVTutarıHesaplayanProgram
 * DikÜçgendeHipotenüsBulanProgram
 * TaksimeetreHesaplayanProgram
 * VücutKitleIndeksiHesaplamaProgramı
 * ManavKasaProgrami
+* NotOrtalamasıHesaplama
 * HesapMakinasiProgramiSwitch
 * KullanıcıGirisProgramı
 * SınıfıGecmeDurumuProgramı
 * HavaSıcaklıgınaGöreEtkinlikÖnermeProgramı
 * SayılarıBüyüktenKücügeSıralamaProgramı
+* BurcBulanProgram
+* UcakBiletiFiyatıHesaplamaProgramı
 
 [Patika Profil Adresim](https://app.patika.dev/shelker)
 
