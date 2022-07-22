@@ -28,9 +28,8 @@ public class EbobVeEkokBulanProgram {
                     break;
                 }
             }
-            System.out.print("Sayının EBOB :"+ebob +"\n" +  "Sayının EKOK :" + (n1 * n2)/ebob);
-        }
-        else {
+            System.out.print("Sayının EBOB :" + ebob + "\n" + "Sayının EKOK :" + (n1 * n2) / ebob);
+        } else {
             int k = n2;
             while (k >= 1) {
                 k--;
@@ -47,7 +46,6 @@ public class EbobVeEkokBulanProgram {
                 }
             }
             System.out.print("Sayının EBOB :" + ebob + "\n" + "Sayının EKOK :" + (n1 * n2) / ebob);
-
         }
     }
 }
